@@ -1,2 +1,2 @@
 # ExcelWorkbook_Openpyxl
-Generating Excel wheet with openpyxl python module.
+Generating Excel sheet with openpyxl python module.
